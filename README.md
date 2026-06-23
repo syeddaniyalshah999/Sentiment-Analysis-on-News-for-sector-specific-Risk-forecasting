@@ -10,13 +10,7 @@ The study compares sentiment-based and macroeconomic-based datasets and demonstr
 
 ### Key Concepts
 
-* Financial Risk Management
-* Volatility Forecasting
-* Sentiment Analysis
-* Machine Learning in Finance
-* Macroeconomic Analysis
-* Predictive Analytics
-* Portfolio & Investment Decision Support
+Quantitative Finance • Financial Machine Learning • Volatility Forecasting • Market Risk • Risk Management • Predictive Analytics • Time Series Forecasting • Sentiment Analysis • Natural Language Processing (NLP) • Alternative Data • Financial Data Science • Algorithmic Trading • Quant Research • Portfolio Management • Investment Analytics • FinTech • Machine Learning in Finance • Feature Engineering
 
 ### Team Members
 
